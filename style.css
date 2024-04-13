@@ -1,0 +1,35 @@
+* {
+    
+}
+
+body {
+    font-family: "Courier New", Verdana, Arial, sans-serif;
+    background-color: #dfdfdf;
+}
+
+a {
+    color:rgb(61, 61, 61);
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+    color: black;
+}
+
+img {
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+    filter: grayscale(100%);
+}
+
+.recipe-header {
+    text-align: center;
+    position: center;
+}
+
+.page-nav {
+    font-size: 18px;
+    text-decoration: none;
+}
